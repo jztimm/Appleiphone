@@ -13,7 +13,7 @@ const Footer = () => {
             you.
           </p>
           <p className="font-semibold text-gray text-xs">
-            Or call 000800-040-1966
+            Or call 888-124-4498
           </p>
         </div>
 
